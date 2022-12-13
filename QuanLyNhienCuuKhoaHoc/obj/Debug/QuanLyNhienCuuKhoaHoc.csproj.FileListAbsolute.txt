@@ -1,0 +1,11 @@
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\bin\Debug\QuanLyNhienCuuKhoaHoc.exe.config
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\bin\Debug\QuanLyNhienCuuKhoaHoc.exe
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\bin\Debug\QuanLyNhienCuuKhoaHoc.pdb
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.csproj.AssemblyReference.cache
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.csproj.SuggestedBindingRedirects.cache
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.fDangNhap.resources
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.Properties.Resources.resources
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.csproj.GenerateResource.cache
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.csproj.CoreCompileInputs.cache
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.exe
+G:\QuanLyNhienCuuKhoaHoc\QuanLyNhienCuuKhoaHoc\obj\Debug\QuanLyNhienCuuKhoaHoc.pdb
